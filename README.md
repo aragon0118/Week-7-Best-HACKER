@@ -1,5 +1,3 @@
-# Week-7-Best-HACKER
-Best HACKER
 # Project 7 - WordPress Pentesting
 
 Time spent: **X** hours spent in total
