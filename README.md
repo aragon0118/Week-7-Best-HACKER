@@ -7,17 +7,15 @@ Time spent: 12 hours spent in total
 ## Pentesting Report
 
 1. 4.2 - Unauthenticated Stored Corss-Site Scripting (XSS)
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: Commented with the following string and replaced ...[64 KB]... with 65536 A's (characters).
-  
+  - [x] Steps to recreate: Commented with the following string and replaced ...[64 KB]... with 65536 A's (characters)
 <a title='x onmouseover=alert(unescape(/BEST%20HACKER/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
-
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1]
 2. Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
