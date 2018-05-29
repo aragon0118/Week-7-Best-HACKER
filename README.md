@@ -6,7 +6,7 @@ Time spent: 12 hours spent in total
 
 ## Pentesting Report
 
-1. 4.2 - Unauthenticated Stored Corss-Site Scripting (XSS)
+1. 4.2 - Unauthenticated Corss-Site Scripting (XSS)
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
