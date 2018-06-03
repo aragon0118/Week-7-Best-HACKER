@@ -27,15 +27,15 @@ Time spent: 12 hours spent in total
   - [x] Steps to recreate: When you try to login with a non-existent username the error page states "ERROR: Invalid username." Unlike when using known username but wrong password to login the error page states "ERROR: The password you entered for the username **admin** is incorrect."
   - [x] Affected source code:
     - [Reference](https://www.wpwhitesecurity.com/wordpress-security/wordpress-username-disclosure-vulnerability/)
-3. Vulnerability Name or ID
+3. Privilege Escalation
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - Vulnerability types: privilege escalation
+    - Tested in version: 4.2
+    - Fixed in version: -
+  - [x] GIF Walkthrough: ![]( )
+  - [x] Steps to recreate: 
+  - [] Affected source code:
+   
 
 ## Assets
 
