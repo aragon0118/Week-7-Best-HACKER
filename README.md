@@ -18,15 +18,15 @@ Time spent: 12 hours spent in total
 ```
   - [ ] Affected source code:
   
-2. Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: ![](https://github.com/aragon0118/Week-7-Best-HACKER/blob/master/UserEnumeration%20Week%207.gif)
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+2. Username Disclosure (User Enenumeration)
+  - [x] Summary: 
+    - Vulnerability types: user enumeration
+    - Tested in version: 4.2.2
+    - Fixed in version: -
+  - [x] GIF Walkthrough: ![](https://github.com/aragon0118/Week-7-Best-HACKER/blob/master/Username%20Week%207.gif)
+  - [x] Steps to recreate: When you try to login with a non-existent username the error page states "ERROR: Invalid username." Unlike when using known username but wrong password to login the error page states "ERROR: The password you entered for the username **admin** is incorrect."
+  - [x] Affected source code:
+    - [Link 1](https://www.wpwhitesecurity.com/wordpress-security/wordpress-username-disclosure-vulnerability/)
 3. Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
