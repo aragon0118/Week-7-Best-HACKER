@@ -32,8 +32,8 @@ Time spent: 12 hours spent in total
     - Vulnerability types: privilege escalation
     - Tested in version: 4.2
     - Fixed in version: -
-  - [x] GIF Walkthrough: ![]( )
-  - [x] Steps to recreate: 
+  - [x] GIF Walkthrough: ![](https://github.com/aragon0118/Week-7-Best-HACKER/blob/master/PrivilegeEscalation%20Week%207.gif)
+  - [x] Steps to recreate: When any user/non-registered user posts a comment on a page or post it needs approval from the admin. Yet, once one comment is approved any comments posted after no longer need approval. 
   - [] Affected source code:
    
 
