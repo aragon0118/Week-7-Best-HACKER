@@ -26,7 +26,7 @@ Time spent: 12 hours spent in total
   - [x] GIF Walkthrough: ![](https://github.com/aragon0118/Week-7-Best-HACKER/blob/master/Username%20Week%207.gif)
   - [x] Steps to recreate: When you try to login with a non-existent username the error page states "ERROR: Invalid username." Unlike when using known username but wrong password to login the error page states "ERROR: The password you entered for the username **admin** is incorrect."
   - [x] Affected source code:
-    - [Link 1](https://www.wpwhitesecurity.com/wordpress-security/wordpress-username-disclosure-vulnerability/)
+    - [Reference](https://www.wpwhitesecurity.com/wordpress-security/wordpress-username-disclosure-vulnerability/)
 3. Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
