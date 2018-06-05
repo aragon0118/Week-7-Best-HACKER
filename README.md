@@ -18,7 +18,7 @@ Time spent: 12 hours spent in total
 ```
   - [x] Affected source code:
     - [Reference](https://klikki.fi/adv/wordpress2.html)
-2. Username Disclosure (User Enenumeration)
+2. Username Disclosure (User Enumeration)
   - [x] Summary: 
     - Vulnerability types: user enumeration
     - Tested in version: 4.2.2
